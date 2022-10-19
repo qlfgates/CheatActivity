@@ -5,7 +5,7 @@ import android.os.Bundle
 
 class CheatActivity : AppCompatActivity() {
 
-    private lateinit var binding : ActivityCheatingBinding
+    private lateinit var binding : ActivityCheatBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
